@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Bloody Enterprise
 
-You can use the [editor on GitHub](https://github.com/Antonio-Ingegnere/bloodyenterprise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Всё о менеджменте. Преимущественно IT._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Best Practice
+- [Reactive VS Proactive Management / Реактивный и Проактивный менеджмент](https://t.me/notesoncuffs/15)
 
-### Markdown
+# Интервью
+- [Вопросы маркеры](https://t.me/notesoncuffs/13)
+- [Взгляд интервьюера](https://habr.com/ru/post/437386/)
+- [Взгляд соискателя (надо обновлять, старая)](https://habr.com/ru/post/106832/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# People Management - Управление персоналом
+- [[AntiPattern] Мы нанимаем только сеньоров](https://t.me/notesoncuffs/6)
+- [Как работать с Индией - часть 1](https://t.me/notesoncuffs/9)
+- [Как работать с Индией - часть 2](https://t.me/notesoncuffs/11)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Antonio-Ingegnere/bloodyenterprise/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Книги
+- [Миссия бизнеса - Коносуке Мацусита](https://t.me/notesoncuffs/8)
