@@ -1,5 +1,3 @@
-# Bloody Enterprise
-
 _Всё о менеджменте. Преимущественно IT._
 
 # Best Practice
