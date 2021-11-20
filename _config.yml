@@ -9,4 +9,9 @@ social:
 social_links:
   telegram: notesoncuffs
 
+telegram_username: notesoncuffs
+
 theme: minima
+
+minima:
+  skin: dark
