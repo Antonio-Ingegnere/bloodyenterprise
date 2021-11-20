@@ -2,6 +2,7 @@ _Всё о менеджменте. Преимущественно IT._
 
 ## Best Practice
 - [Reactive VS Proactive Management / Реактивный и Проактивный менеджмент](https://t.me/notesoncuffs/15)
+- [Читайте новости](https://t.me/notesoncuffs/17)
 
 ## Интервью
 - [Вопросы маркеры](https://t.me/notesoncuffs/13)
