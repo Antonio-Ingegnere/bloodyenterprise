@@ -15,6 +15,9 @@ _Всё о менеджменте. Преимущественно IT._
 - [Как работать с Индией - часть 1](https://t.me/notesoncuffs/9)
 - [Как работать с Индией - часть 2](https://t.me/notesoncuffs/11)
 
+## Communication
+- [Половина успеха в Project Management’е – коммуникация](https://t.me/notesoncuffs/22)
+
 ## Книги
 - [Миссия бизнеса - Коносуке Мацусита](https://t.me/notesoncuffs/8)
 
